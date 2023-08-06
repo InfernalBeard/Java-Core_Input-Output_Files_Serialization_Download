@@ -1,7 +1,3 @@
-package JavaCore_3_3_Files;
-
-import JavaCore_3_2_Files.GameProgress;
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
